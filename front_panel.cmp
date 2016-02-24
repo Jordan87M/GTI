@@ -1,0 +1,276 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 6/16/2014 12:36:13 AM
+
+BeginCmp
+TimeStamp = /535B774B;
+Reference = C1;
+ValeurCmp = .47u;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6E5B;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53632414;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6F31;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = 1209;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6F40;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = 1209;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6F4F;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = 1209;
+EndCmp
+
+BeginCmp
+TimeStamp = /5360A75C;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = 1209;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B7067;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = 1209;
+EndCmp
+
+BeginCmp
+TimeStamp = /5360A76D;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = 1209;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6ED8;
+Reference = P1;
+ValeurCmp = GNDA;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6E88;
+Reference = P2;
+ValeurCmp = RESETn;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B709C;
+Reference = P3;
+ValeurCmp = 3V_IN;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B7869;
+Reference = P4;
+ValeurCmp = PWM;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B75A9;
+Reference = P5;
+ValeurCmp = SPI1_CS2;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B75B8;
+Reference = P6;
+ValeurCmp = SPI1_MOSI;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B75C7;
+Reference = P7;
+ValeurCmp = SPI1_SCK;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B7577;
+Reference = P8;
+ValeurCmp = SPI1_MISO;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B70C7;
+Reference = P9;
+ValeurCmp = PROGRAM_INT;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B77DE;
+Reference = P10;
+ValeurCmp = 5V_FRONT;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6F5E;
+Reference = P11;
+ValeurCmp = DC_LINK+;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6FDC;
+Reference = P12;
+ValeurCmp = DC_LINK-;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6F6D;
+Reference = P13;
+ValeurCmp = DC_RAIL+;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6FEB;
+Reference = P14;
+ValeurCmp = DC_RAIL-;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6F7C;
+Reference = P15;
+ValeurCmp = AC_OUT_A;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6FFA;
+Reference = P16;
+ValeurCmp = AC_OUT_B;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B706D;
+Reference = P17;
+ValeurCmp = GRID_REF_A;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B7075;
+Reference = P18;
+ValeurCmp = GRID_REF_B;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /539E7326;
+Reference = P19;
+ValeurCmp = RESET_SWITCH;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /539E7335;
+Reference = P20;
+ValeurCmp = RESET_SWITCH_GND;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /539E7344;
+Reference = P21;
+ValeurCmp = PROGRAM_SWITCH;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /539E7353;
+Reference = P22;
+ValeurCmp = PROGRAM_SWITCH_GND;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B75E5;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B77CF;
+Reference = R2;
+ValeurCmp = 18;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6F13;
+Reference = R3;
+ValeurCmp = 2.2k;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6F22;
+Reference = R4;
+ValeurCmp = 2.2k;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B7061;
+Reference = R5;
+ValeurCmp = 2.2k;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B6F04;
+Reference = R6;
+ValeurCmp = 2.2k;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B78BA;
+Reference = RV1;
+ValeurCmp = 10k;
+IdModule  = RV2;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B7568;
+Reference = U1;
+ValeurCmp = DIP203;
+IdModule  = DIP203;
+EndCmp
+
+EndListe

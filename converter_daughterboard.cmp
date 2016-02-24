@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 1/6/2016 5:00:28 PM
+
+BeginCmp
+TimeStamp = /53617EFE;
+Reference = C1;
+ValeurCmp = .1u;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5361DD84;
+Reference = C2;
+ValeurCmp = 4.7n;
+IdModule  = c_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /5361DD75;
+Reference = C3;
+ValeurCmp = 4.7n;
+IdModule  = c_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /5361DDA2;
+Reference = C4;
+ValeurCmp = 4.7n;
+IdModule  = c_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /5361DD93;
+Reference = C5;
+ValeurCmp = 4.7n;
+IdModule  = c_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /568A29C9;
+Reference = C6;
+ValeurCmp = .1u;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53617965;
+Reference = P1;
+ValeurCmp = IN+;
+IdModule  = SCREW_TERMINAL_7691;
+EndCmp
+
+BeginCmp
+TimeStamp = /53617974;
+Reference = P2;
+ValeurCmp = IN GND;
+IdModule  = SCREW_TERMINAL_7691;
+EndCmp
+
+BeginCmp
+TimeStamp = /53617947;
+Reference = P3;
+ValeurCmp = OUT+;
+IdModule  = SCREW_TERMINAL_7691;
+EndCmp
+
+BeginCmp
+TimeStamp = /53617956;
+Reference = P4;
+ValeurCmp = OUT GND;
+IdModule  = SCREW_TERMINAL_7691;
+EndCmp
+
+BeginCmp
+TimeStamp = /5688B89D;
+Reference = P5;
+ValeurCmp = PC;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5688B8B5;
+Reference = P6;
+ValeurCmp = PR;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5688B8CA;
+Reference = P7;
+ValeurCmp = SC;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /538D6E87;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /538D6E96;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /538D7011;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5688BA11;
+Reference = R4;
+ValeurCmp = 0;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5688BA02;
+Reference = R5;
+ValeurCmp = 0;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5688BAB1;
+Reference = R6;
+ValeurCmp = 0;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56837A73;
+Reference = TH1;
+ValeurCmp = THERMISTOR;
+IdModule  = Ametherm_SL10;
+EndCmp
+
+BeginCmp
+TimeStamp = /53620847;
+Reference = U1;
+ValeurCmp = V28C;
+IdModule  = V28C;
+EndCmp
+
+BeginCmp
+TimeStamp = /538CD3F3;
+Reference = U2;
+ValeurCmp = DAUGHTERBOARD_MOUNT;
+IdModule  = DAUGHTERBOARD_MOUNT;
+EndCmp
+
+EndListe
