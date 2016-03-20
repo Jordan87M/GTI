@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 3/19/2016 3:20:44 AM
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 3/20/2016 3:51:24 AM
 
 BeginCmp
 TimeStamp = /53617EFE;
@@ -74,7 +74,7 @@ BeginCmp
 TimeStamp = /568F3D31;
 Reference = D2;
 ValeurCmp = DIODESCH;
-IdModule  = POWERDI5;
+IdModule  = R6;
 EndCmp
 
 BeginCmp
@@ -155,24 +155,31 @@ IdModule  = MOLEX-1;
 EndCmp
 
 BeginCmp
+TimeStamp = /56EE5605;
+Reference = P11;
+ValeurCmp = gnd;
+IdModule  = MOLEX-1;
+EndCmp
+
+BeginCmp
 TimeStamp = /538D6E87;
 Reference = R1;
-ValeurCmp = R;
-IdModule  = c_0603;
+ValeurCmp = TRIM UP;
+IdModule  = R3;
 EndCmp
 
 BeginCmp
 TimeStamp = /538D6E96;
 Reference = R2;
-ValeurCmp = R;
-IdModule  = c_0603;
+ValeurCmp = TRIM DOWNA;
+IdModule  = R3;
 EndCmp
 
 BeginCmp
 TimeStamp = /538D7011;
 Reference = R3;
-ValeurCmp = R;
-IdModule  = c_0603;
+ValeurCmp = TRIM DOWNB;
+IdModule  = R3;
 EndCmp
 
 BeginCmp
@@ -193,20 +200,20 @@ BeginCmp
 TimeStamp = /56EC7E3A;
 Reference = R6;
 ValeurCmp = 0;
-IdModule  = c_0603;
+IdModule  = R3;
 EndCmp
 
 BeginCmp
 TimeStamp = /56ECEB06;
 Reference = R7;
-ValeurCmp = R;
+ValeurCmp = BIAS A;
 IdModule  = c_0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /56ECEB13;
 Reference = R8;
-ValeurCmp = R;
+ValeurCmp = BIAS B;
 IdModule  = c_0603;
 EndCmp
 
@@ -256,7 +263,7 @@ BeginCmp
 TimeStamp = /56ECCD2B;
 Reference = R15;
 ValeurCmp = OPT;
-IdModule  = c_0603;
+IdModule  = R3;
 EndCmp
 
 BeginCmp
@@ -284,7 +291,7 @@ BeginCmp
 TimeStamp = /56ECE5DF;
 Reference = SW1;
 ValeurCmp = SPST;
-IdModule  = ;
+IdModule  = L101011MS02_SPDT;
 EndCmp
 
 BeginCmp
