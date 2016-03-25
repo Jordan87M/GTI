@@ -36,7 +36,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "noname.sch"
-Date "20 mar 2016"
+Date "25 mar 2016"
 Rev ""
 Comp ""
 Comment1 ""
@@ -355,12 +355,12 @@ Wire Wire Line
 $Comp
 L C C6
 U 1 1 568A29C9
-P 3950 1900
-F 0 "C6" H 3950 2000 40  0000 L CNN
-F 1 ".1u" H 3956 1815 40  0000 L CNN
-F 2 "~" H 3988 1750 30  0000 C CNN
-F 3 "~" H 3950 1900 60  0000 C CNN
-	1    3950 1900
+P 3950 1850
+F 0 "C6" H 3950 1950 40  0000 L CNN
+F 1 ".1u" H 3956 1765 40  0000 L CNN
+F 2 "~" H 3988 1700 30  0000 C CNN
+F 3 "~" H 3950 1850 60  0000 C CNN
+	1    3950 1850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -885,4 +885,7 @@ $EndComp
 Wire Wire Line
 	6100 2900 6100 2800
 Connection ~ 6100 2800
+Wire Wire Line
+	3950 2050 3950 2100
+Connection ~ 3950 2100
 $EndSCHEMATC
